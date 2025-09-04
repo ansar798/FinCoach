@@ -3,7 +3,7 @@
 > **Hackathon Submission**: A smart financial coach that uses AI to transform raw transaction data into personalized insights that empower users to take control of their financial lives.
 
 ## Design Documentation & Demo Video
-- **Demo Video**: https://drive.google.com/file/d/1rqOISXIN-52vHPOXkVK4gn5NSNjSMq5U/view?usp=sharing
+- **Demo Video**: https://drive.google.com/file/d/1c9j4jcPA2BH3IXiO93J-Y2zdJA8o_bUC/view?usp=share_link
 - **Design Documentation**: Available in the repository as `FinCoach Design Doc.pdf`
 
 ## Problem Statement
