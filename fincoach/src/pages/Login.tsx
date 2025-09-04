@@ -102,7 +102,7 @@ export default function Login() {
             color: 'white',
             boxShadow: '0 8px 25px rgba(30, 58, 138, 0.3)'
           }}>
-            💰
+            FC
           </div>
           <h2 style={{margin: 0, color: '#333', fontSize: '2.5rem', fontWeight: '700'}}>FinCoach</h2>
         </div>
@@ -145,7 +145,7 @@ export default function Login() {
           color: 'white',
           boxShadow: '0 8px 25px rgba(30, 58, 138, 0.3)'
         }}>
-          💰
+          FC
         </div>
         <h2 style={{margin: 0, color: '#333', fontSize: '2.5rem', fontWeight: '700'}}>FinCoach</h2>
       </div>
@@ -163,7 +163,7 @@ export default function Login() {
         fontSize: '0.9rem'
       }}>
         <div style={{display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.5rem'}}>
-          <span style={{color: '#28a745'}}>🔒</span>
+          <span style={{color: '#28a745'}}>Lock</span>
           <strong style={{color: '#28a745'}}>Secure & Private</strong>
         </div>
         <div style={{color: '#666', fontSize: '0.85rem'}}>

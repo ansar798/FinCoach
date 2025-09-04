@@ -1,0 +1,101 @@
+date,amount,merchant,category,source,memo
+2025-08-31,1.76,Apple iCloud,Subscription,Checking,
+2025-07-20,32.52,Apple Store,Other,Credit Card,Groceries
+2025-06-05,24.45,Uber Eats,Food Delivery,Credit Card,Fuel refill
+2025-09-03,75.38,Chevron,Gas,Checking,Music
+2025-07-08,117.83,Target,Groceries,Checking,Monthly plan
+2025-06-07,4.55,Apple iCloud,Subscription,Credit Card,Monthly plan
+2025-06-16,19.64,Uber Eats,Food Delivery,Credit Card,Music
+2025-06-11,85.77,Walmart,Groceries,Credit Card,
+2025-06-14,133.33,Amazon,Other,Checking,Lunch
+2025-06-24,167.29,Best Buy,Other,Checking,Music
+2025-07-15,8.53,Spotify,Subscription,Credit Card,Groceries
+2025-07-03,36.39,Chevron,Gas,Checking,Streaming
+2025-07-03,12.29,Uber Eats,Food Delivery,Credit Card,Lunch
+2025-06-28,84.95,Shell,Gas,Credit Card,Lunch
+2025-08-24,82.67,Chevron,Gas,Checking,Streaming
+2025-06-16,13.82,Netflix,Subscription,Checking,Groceries
+2025-09-01,1.85,Apple iCloud,Subscription,Checking,
+2025-08-19,64.88,Shell,Gas,Credit Card,
+2025-07-27,57.83,Exxon,Gas,Credit Card,Fuel refill
+2025-08-22,28.86,Uber Eats,Food Delivery,Checking,Monthly plan
+2025-08-14,86.46,Shell,Gas,Checking,Fuel refill
+2025-07-13,4.81,Dunkin,Coffee,Checking,Streaming
+2025-06-30,152.19,Whole Foods,Groceries,Checking,Fuel refill
+2025-07-26,11.46,Spotify,Subscription,Checking,
+2025-08-01,7.22,Starbucks,Coffee,Credit Card,Streaming
+2025-08-28,35.68,Shell,Gas,Credit Card,Dinner
+2025-07-31,24.71,DoorDash,Food Delivery,Credit Card,Groceries
+2025-07-06,126.01,Walmart,Groceries,Credit Card,Fuel refill
+2025-07-12,40.23,Whole Foods,Groceries,Credit Card,Weekly shop
+2025-06-15,16.79,Apple Store,Other,Checking,Music
+2025-08-18,83.98,Exxon,Gas,Checking,Weekly shop
+2025-06-06,97.55,Target,Groceries,Credit Card,Fuel refill
+2025-07-16,7.71,Dunkin,Coffee,Checking,
+2025-07-25,4.15,Peet's Coffee,Coffee,Checking,Dinner
+2025-07-24,18.81,Apple Store,Other,Credit Card,Dinner
+2025-08-30,87.9,Shell,Gas,Checking,Streaming
+2025-07-28,20.83,Uber Eats,Food Delivery,Credit Card,Fuel refill
+2025-08-18,76.01,Whole Foods,Groceries,Credit Card,Music
+2025-08-20,106.19,Walmart,Groceries,Checking,Fuel refill
+2025-06-08,63.15,Shell,Gas,Credit Card,Dinner
+2025-07-31,15.68,Netflix,Subscription,Credit Card,Groceries
+2025-06-20,3.6,Apple iCloud,Subscription,Credit Card,Weekly shop
+2025-08-15,64.47,Exxon,Gas,Checking,Monthly plan
+2025-06-30,271.68,Best Buy,Other,Credit Card,Dinner
+2025-06-07,45.41,Walmart,Groceries,Checking,Weekly shop
+2025-07-13,49.42,Apple Store,Other,Credit Card,Streaming
+2025-07-10,128.22,Amazon,Other,Credit Card,Weekly shop
+2025-07-03,70.94,Amazon,Other,Checking,Monthly plan
+2025-08-20,77.99,Target,Groceries,Credit Card,Monthly plan
+2025-06-30,192.96,Amazon,Other,Credit Card,
+2025-07-21,67.48,Amazon,Other,Credit Card,Music
+2025-08-13,156.53,Best Buy,Other,Credit Card,Dinner
+2025-06-13,77.98,Chevron,Gas,Checking,Groceries
+2025-07-14,8.81,Starbucks,Coffee,Credit Card,Weekly shop
+2025-06-18,133.83,Amazon,Other,Checking,
+2025-06-07,35.65,Target,Groceries,Credit Card,Groceries
+2025-07-17,10.09,Spotify,Subscription,Checking,Weekly shop
+2025-06-16,8.6,Peet's Coffee,Coffee,Checking,Streaming
+2025-08-08,10.03,Spotify,Subscription,Credit Card,Music
+2025-06-17,5.41,Dunkin,Coffee,Credit Card,Streaming
+2025-07-12,84.68,Chevron,Gas,Checking,Monthly plan
+2025-07-08,61.82,Target,Groceries,Checking,Lunch
+2025-06-20,28.55,Apple Store,Other,Checking,
+2025-08-10,1.82,Apple iCloud,Subscription,Checking,Weekly shop
+2025-07-17,9.34,Spotify,Subscription,Checking,Fuel refill
+2025-08-25,134.58,Whole Foods,Groceries,Checking,Weekly shop
+2025-07-09,10.09,Spotify,Subscription,Credit Card,Streaming
+2025-07-14,15.18,Netflix,Subscription,Credit Card,
+2025-08-05,157.66,Whole Foods,Groceries,Credit Card,Lunch
+2025-08-19,29.24,Apple Store,Other,Checking,Monthly plan
+2025-09-02,25.42,DoorDash,Food Delivery,Checking,Streaming
+2025-06-28,81.83,Shell,Gas,Checking,Weekly shop
+2025-08-27,9.01,Amazon,Other,Credit Card,Groceries
+2025-06-05,13.97,Netflix,Subscription,Credit Card,
+2025-08-03,14.82,Uber Eats,Food Delivery,Checking,Weekly shop
+2025-06-12,80.9,Chevron,Gas,Credit Card,Music
+2025-08-21,27.05,Chevron,Gas,Credit Card,Fuel refill
+2025-06-06,27.67,Walmart,Groceries,Checking,Fuel refill
+2025-08-15,4.87,Apple iCloud,Subscription,Credit Card,
+2025-06-19,47.03,Apple Store,Other,Checking,Streaming
+2025-07-19,12.53,Apple Store,Other,Credit Card,Groceries
+2025-06-12,9.1,Spotify,Subscription,Checking,Monthly plan
+2025-07-15,15.48,Target,Groceries,Credit Card,Monthly plan
+2025-08-06,29.9,Uber Eats,Food Delivery,Checking,Streaming
+2025-07-09,33.08,Exxon,Gas,Checking,Lunch
+2025-06-22,19.27,Apple Store,Other,Credit Card,Fuel refill
+2025-08-24,76.38,Chevron,Gas,Credit Card,Monthly plan
+2025-07-31,3.61,Apple iCloud,Subscription,Credit Card,Fuel refill
+2025-07-10,16.7,Uber Eats,Food Delivery,Credit Card,Music
+2025-08-05,82.0,Whole Foods,Groceries,Credit Card,Monthly plan
+2025-07-11,120.73,Amazon,Other,Credit Card,Streaming
+2025-08-06,6.28,Apple Store,Other,Credit Card,Lunch
+2025-08-06,112.73,Whole Foods,Groceries,Checking,Groceries
+2025-08-29,7.33,Dunkin,Coffee,Checking,Weekly shop
+2025-07-12,3.29,Dunkin,Coffee,Checking,
+2025-06-28,28.3,DoorDash,Food Delivery,Credit Card,Groceries
+2025-07-26,80.69,Walmart,Groceries,Checking,Fuel refill
+2025-08-11,9.56,Spotify,Subscription,Credit Card,Fuel refill
+2025-06-30,6.01,Peet's Coffee,Coffee,Credit Card,Monthly plan
+2025-06-16,35.08,Shell,Gas,Credit Card,Dinner

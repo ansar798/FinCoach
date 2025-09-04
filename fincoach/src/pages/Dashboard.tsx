@@ -44,7 +44,7 @@ export function getCategoryColor(category: string): string {
 export default function Dashboard(){
   const { user } = useAuth();
   const { userData } = useUserData(user?.uid);
-  const txs = useTransactions(user?.uid);
+  const { txs } = useTransactions(user?.uid);
   const navigate = useNavigate();
   
   // Get user's display name from Firestore data
@@ -191,7 +191,7 @@ export default function Dashboard(){
     <div className="dashboard-container">
       <div style={{marginBottom: '2rem', textAlign: 'center'}}>
         <h2 style={{color: '#333', margin: 0, fontSize: '1.5rem'}}>
-          Welcome back, {displayName}! 👋
+          Welcome back, {displayName}!
         </h2>
         <p style={{color: '#666', margin: '0.5rem 0 0 0', fontSize: '1rem'}}>
           Here's your financial overview
@@ -279,7 +279,7 @@ export default function Dashboard(){
         </section>
 
         <section className="insights-section">
-          <h3 style={{marginBottom: '1rem', color: '#333'}}>🤖 AI Insights</h3>
+          <h3 style={{marginBottom: '1rem', color: '#333'}}>AI Insights</h3>
           <ul className="insights-list">
             {insights.map((i, idx)=>(
               <li key={idx} className={`insight-item ${i.severity}`}>
@@ -296,7 +296,7 @@ export default function Dashboard(){
 
       {(subscriptions.length > 0 || txs.some(t => t.category === 'Subscription')) && (
         <section className="insights-section subscription-detector-container">
-          <h3 style={{marginBottom: '1rem', color: '#333'}}>🔍 Subscription Detector</h3>
+          <h3 style={{marginBottom: '1rem', color: '#333'}}>Subscription Detector</h3>
           <div style={{display: 'grid', gap: '1rem'}}>
             {subscriptions.map((sub, idx) => (
               <div key={idx} className="insight-item warn">
@@ -320,7 +320,7 @@ export default function Dashboard(){
       )}
 
       <section className="insights-section recent-transactions-container">
-        <h3 style={{marginBottom: '1rem', color: '#333'}}>📋 Recent Transactions</h3>
+        <h3 style={{marginBottom: '1rem', color: '#333'}}>Recent Transactions</h3>
         <div style={{display: 'grid', gap: '0.75rem', marginBottom: '1rem'}}>
           {txs.slice(0, 5).map((tx, idx) => (
             <div key={idx} style={{
@@ -378,7 +378,7 @@ export default function Dashboard(){
           <div style={{display: 'grid', gap: '1rem', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))'}}>
             <div className="data-management-section">
               <div className="data-management-content">
-                <h4>📊 Import More Data</h4>
+                <h4>Import More Data</h4>
                 <p>
                   Add new CSV files to expand your financial insights and analysis.
                 </p>
@@ -396,7 +396,7 @@ export default function Dashboard(){
             </div>
             <div className="data-management-section">
               <div className="data-management-content">
-                <h4>⚠️ Start Fresh</h4>
+                <h4>Start Fresh</h4>
                 <p>
                   Remove all transaction data to start over with a clean slate.
                 </p>
@@ -422,7 +422,7 @@ export default function Dashboard(){
       {showDeleteConfirm && (
         <div className="modal-overlay" onClick={() => setShowDeleteConfirm(false)}>
           <div className="modal-content" onClick={(e) => e.stopPropagation()}>
-            <h3 style={{margin: '0 0 1rem 0', color: '#dc3545'}}>⚠️ Confirm Data Deletion</h3>
+            <h3 style={{margin: '0 0 1rem 0', color: '#dc3545'}}>Confirm Data Deletion</h3>
             <p style={{margin: '0 0 1.5rem 0', color: '#666', lineHeight: '1.5'}}>
               Are you sure you want to delete all your transaction data? This action cannot be undone.
               You will lose all your financial history, insights, and analysis.

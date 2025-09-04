@@ -47,10 +47,10 @@ export default function App() {
       {showHeader && (
         <header className="app-header">
           <div style={{display: 'flex', alignItems: 'center', gap: '1rem'}}>
-            <h1 className="app-title">💰 FinCoach</h1>
+            <h1 className="app-title">FinCoach</h1>
                       {user && (
             <div className="user-badge">
-              <span>👤</span>
+              <span>User</span>
               <span>{userData?.displayName || user.displayName || user.email?.split('@')[0] || 'User'}</span>
             </div>
           )}
